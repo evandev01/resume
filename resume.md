@@ -13,10 +13,9 @@
 # Projects
 
 ### eDateBook 
-- React application designed to allow the user to create, save, store and delete calendar
-events and addresses
+- React application designed to allow the user to organize calendar events, contacts, and addresses
 - Responsible for front-end and partial back-end development as well as UI/UX design
-- Used Sequelize, Express and mySQL allow user to access, update and delete events, addresses, contacts, contact groups and login information
+- Used Sequelize, Express and mySQL allow user to access, update and delete events, addresses, contacts, contact groups, and login information
 - Utilized graphic design skills to create custom images and graphics
 
 ### Fitness Tracker
@@ -28,8 +27,7 @@ events and addresses
 ### Eat-Da-Burger!
 - Handlebars fun application that allows the user to create a burger, devour and eat again.
 - Responsible for client-side and server-side development
-- Used ORM (Object-Relational-Mapping) with MVC file structure to allow user to access, update
-and delete information from a mySQL database
+- Used ORM (Object-Relational-Mapping) with MVC file structure to allow user to access, update, and delete information from a mySQL database
 - Used Handlebars for server side rendering of HTML
 
 # Coding_Multimedia_Experience
@@ -41,14 +39,12 @@ CSS, as a modern front-end library
 - Built API’s using Express and Node.js to communicate with databases
 - Built and managed MySQL databases through node applications
 - Used Sequelize as an ORM library
-- Utilized external API’s including Google Charts, Open Weather, Deezer, etc., to import data
-- Used Pixelmator graphics software to create custom backgrounds, headers, logos, buttons and
-links
+- Utilized external API’s including Google Charts, Open Weather, Deezer, etc. to import data
+- Used Pixelmator graphics software to create custom backgrounds, headers, logos, buttons, and links
 
 ## Motion Church, Puyallup, WA — Production Leader
 March 2017 - July 2019
-- Used Pixelmator (graphics software) to create custom graphics. These skills have translated
-into my design of UI
+- Used Pixelmator (graphics software) to create custom graphics. These skills have translated into my design of UI
 - Used ProPresenter (presentation software) to deliver a modern and professional audio/video
 experience in real time
 
